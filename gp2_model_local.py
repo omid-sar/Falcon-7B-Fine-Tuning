@@ -21,5 +21,5 @@ print(generated_text)
 
 
 # save model
-model.save_pretrained("gpt2_model_local")
-tokenizer.save_pretrained("gpt2_model_local")
+model.save_pretrained("gpt2-model")
+tokenizer.save_pretrained("gpt2-model")
