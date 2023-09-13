@@ -80,7 +80,7 @@ pushing_github_Repo.ipynb
 
 # exclude data from source control by default
 /data/
-gp2-model/
+gpt2-model/
 # Mac OS-specific storage files
 .DS_Store
 
