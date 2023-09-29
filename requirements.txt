@@ -1,0 +1,23 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning and NLP
+scikit-learn
+transformers
+torch>=2.0.0
+bitsandbytes
+xgboost
+
+# Web Frameworks and API
+streamlit
+flask
+
+# Other Utilities
+youtube-dl
+openai
+
+# Notebook
+notebook
