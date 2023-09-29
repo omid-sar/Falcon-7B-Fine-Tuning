@@ -23,5 +23,3 @@ print(generated_text)
 # save model
 model.save_pretrained("gpt2-model")
 tokenizer.save_pretrained("gpt2-model")
-# 
-# # load model
