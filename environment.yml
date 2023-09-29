@@ -1,4 +1,4 @@
-name: FILL ENVIRONMENT_NAME HERE
+name: FineTune_LLM
 
 channels:
   - apple
