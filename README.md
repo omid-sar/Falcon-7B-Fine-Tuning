@@ -45,9 +45,11 @@ The repository contains a diverse set of notebooks each focusing on a specific m
 
 ## Setup and Installation
 
-- Clone the repository: \`git clone https://github.com/your-username/odel_Finetuning_Lab_GoogleColab_Local.git\`
-- Navigate to the repository: \`cd odel_Finetuning_Lab_GoogleColab_Local\`
-- Install the required libraries: \`pip install -r requirements.txt\`
+- Clone the repository: 
+git clone https://github.com/omid-sar/Model_Finetuning_Lab_GoogleColab_Local
+cd Model_Finetuning_Lab_GoogleColab_Local\`
+- Install the required libraries:
+ \`pip install -r requirements.txt\`
 
 ## License
 
