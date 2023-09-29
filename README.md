@@ -45,12 +45,27 @@ The repository contains a diverse set of notebooks each focusing on a specific m
 
 ## Setup and Installation
 
-- Clone the repository: 
+### Using `requirements.txt`
+
+1. Clone the repository:
+```sh
 git clone https://github.com/omid-sar/Model_Finetuning_Lab_GoogleColab_Local
-cd Model_Finetuning_Lab_GoogleColab_Local\`
-- Install the required libraries:
- \`pip install -r requirements.txt\`
+cd Model_Finetuning_Lab_GoogleColab_Local
+
+```
+
+2. Create a new conda environment from the `environment.yml` file:
+```sh
+conda env create -f environment.yml
+```
+
+3. Activate the newly created conda environment:
+```sh
+conda activate LendingClub.com
+```
+
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
+
