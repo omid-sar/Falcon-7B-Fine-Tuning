@@ -61,7 +61,7 @@ conda env create -f environment.yml
 
 3. Activate the newly created conda environment:
 ```sh
-conda activate LendingClub.com
+conda activate FineTune_LLM
 ```
 
 
